@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TDrama/static/css/main.953949c6.css",
+    "main.css": "/TDrama/static/css/main.6a99f95b.css",
     "main.js": "/TDrama/static/js/main.33ab85f5.js",
     "static/js/453.db992f7f.chunk.js": "/TDrama/static/js/453.db992f7f.chunk.js",
     "index.html": "/TDrama/index.html",
-    "main.953949c6.css.map": "/TDrama/static/css/main.953949c6.css.map",
+    "main.6a99f95b.css.map": "/TDrama/static/css/main.6a99f95b.css.map",
     "main.33ab85f5.js.map": "/TDrama/static/js/main.33ab85f5.js.map",
     "453.db992f7f.chunk.js.map": "/TDrama/static/js/453.db992f7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.953949c6.css",
+    "static/css/main.6a99f95b.css",
     "static/js/main.33ab85f5.js"
   ]
 }
